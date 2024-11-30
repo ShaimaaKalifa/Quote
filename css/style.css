@@ -1,0 +1,25 @@
+
+.content h1{
+    font-size: 80px !important;
+    font-weight: 700 !important;
+    font-family: "Poetsen One", sans-serif;
+    color: black;
+    margin-bottom: 50px;
+}
+
+.content p{
+    font-size: 35px !important;
+    font-weight: 400 !important;
+    margin-bottom: 50px;
+}
+
+.btn-primary{
+
+    padding-inline: 100px !important;
+    margin-bottom: 50px;
+}
+
+.btn-primary:hover{
+   background-color: aqua;
+   color:black
+}
